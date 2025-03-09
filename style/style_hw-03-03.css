@@ -31,7 +31,7 @@ header{
     font-size: 24px;
     font-weight: 500;
     line-height: 29px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     padding-left: 82px;
     position: relative;
     top: -15px;
@@ -42,9 +42,10 @@ header{
     display: inline-block;
     width: 3px;
     height: 20px;
-    left: -26px;
+    left: -24px;
     top: 3px;
     background-color: white;
+    position: relative;
 }
 
 .search{
@@ -114,7 +115,7 @@ h1{
     font-size: 30px;
     line-height: 0px;
     font-weight: 500;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     color: rgb(255, 255, 255);    
     gap: 46px;
     margin-bottom: 47px;
@@ -124,7 +125,7 @@ h1{
     font-size: 29px;
     line-height: 0px;
     font-weight: 400;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     color: rgb(167, 166, 166);       
 }
 
@@ -153,7 +154,7 @@ h1{
     color: rgb(167, 166, 166);
     font-size: 24px;
     line-height: 29px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     display: flex;
     margin-bottom: 45px;    
 }
@@ -188,7 +189,7 @@ h1{
     font-size: 22px;
     font-weight: 500;
     line-height: 141.52%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
 }
 .episodes{
     width: 272px;
@@ -202,7 +203,7 @@ h1{
     font-size: 22px;
     font-weight: 500;
     line-height: 141.52%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
 }
 
 .popular{
@@ -218,7 +219,7 @@ h5{
     font-size: 22px;  
     font-weight: 800;
     line-height: 144.52%;
-    letter-spacing: 13.5%;
+    letter-spacing: 13.5;
 }
 
 .controls{
@@ -266,7 +267,7 @@ h5{
     font-size: 24px;
     font-weight: 500;
     line-height: 141.52%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: center;
     padding-top: 15px;
 }
